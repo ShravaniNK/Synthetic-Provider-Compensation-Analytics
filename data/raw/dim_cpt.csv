@@ -1,0 +1,22 @@
+cpt_code,service_name,specialty,wrvu,charge_amount,allowed_amount
+99213,Established Patient Visit - Low Complexity,Primary Care,0.97,140,110
+99214,Established Patient Visit - Moderate Complexity,Primary Care,1.5,185,145
+99215,Established Patient Visit - High Complexity,Primary Care,2.11,240,190
+99203,New Patient Visit - Low Complexity,Primary Care,1.6,200,160
+99204,New Patient Visit - Moderate Complexity,Primary Care,2.6,275,220
+99205,New Patient Visit - High Complexity,Primary Care,3.5,350,280
+93000,Electrocardiogram,Cardiology,0.17,75,55
+93306,Echocardiography,Cardiology,1.5,500,390
+20610,Large Joint Injection,Orthopedics,0.8,250,195
+27447,Total Knee Arthroplasty,Orthopedics,20.0,4500,3500
+87880,Rapid Strep Test,Pediatrics,0.0,35,25
+99213,Established Patient Visit,Pediatrics,0.97,120,85
+99214,Established Patient Visit,Pediatrics,1.5,180,125
+99391,Preventive Medicine - Infant,Pediatrics,1.5,180,125
+99392,Preventive Medicine - Early Childhood,Pediatrics,1.5,180,125
+11102,Skin Biopsy,Dermatology,0.7,180,140
+17000,Destruction of Skin Lesion,Dermatology,0.5,125,95
+99243,Surgical Consultation,General Surgery,2.43,300,240
+47562,Laparoscopic Surgical Procedure,General Surgery,11.0,2500,2000
+59400,Obstetric Delivery,OBGYN,9.0,2200,1750
+99213,Established Patient Visit - Low Complexity,OBGYN,0.97,140,110

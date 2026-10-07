@@ -1,0 +1,8 @@
+specialty,monthly_wrvu_target_per_fte,threshold_pct,dollars_per_excess_wrvu,quality_multiplier_low,quality_multiplier_mid,quality_multiplier_standard,quality_multiplier_high
+Primary Care,350,0.9,50.0,0.75,0.9,1.0,1.1
+Cardiology,450,0.9,50.0,0.75,0.9,1.0,1.1
+Orthopedics,475,0.9,50.0,0.75,0.9,1.0,1.1
+Pediatrics,300,0.9,50.0,0.75,0.9,1.0,1.1
+General Surgery,425,0.9,50.0,0.75,0.9,1.0,1.1
+OBGYN,375,0.9,50.0,0.75,0.9,1.0,1.1
+Dermatology,325,0.9,50.0,0.75,0.9,1.0,1.1

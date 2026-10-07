@@ -1,0 +1,81 @@
+provider_id,provider_name,specialty,clinic,fte,base_salary,employment_type
+P0001,Provider 001,Primary Care,Clinic D,1.0,242000,Full-Time
+P0002,Provider 002,Primary Care,Clinic C,0.5,249000,Part-Time
+P0003,Provider 003,OBGYN,Clinic C,1.0,254000,Full-Time
+P0004,Provider 004,OBGYN,Clinic B,1.0,342000,Full-Time
+P0005,Provider 005,OBGYN,Clinic B,1.0,289000,Full-Time
+P0006,Provider 006,Pediatrics,ClinicA,1.0,184000,Full-Time
+P0007,Provider 007,Dermatology,Clinic B,1.0,326000,Full-Time
+P0008,Provider 008,General Surgery,ClinicA,1.0,434000,Full-Time
+P0009,Provider 009,General Surgery,Clinic B,0.75,370000,Part-Time
+P0010,Provider 010,Pediatrics,ClinicA,0.75,221000,Part-Time
+P0011,Provider 011,Dermatology,Clinic B,1.0,283000,Full-Time
+P0012,Provider 012,Dermatology,ClinicA,1.0,269000,Full-Time
+P0013,Provider 013,Pediatrics,ClinicA,1.0,194000,Full-Time
+P0014,Provider 014,Pediatrics,Clinic B,1.0,230000,Full-Time
+P0015,Provider 015,General Surgery,Clinic B,1.0,425000,Full-Time
+P0016,Provider 016,Pediatrics,Clinic B,1.0,197000,Full-Time
+P0017,Provider 017,Cardiology,Clinic B,0.75,304000,Part-Time
+P0018,Provider 018,OBGYN,ClinicA,1.0,313000,Full-Time
+P0019,Provider 019,Pediatrics,Clinic B,1.0,208000,Full-Time
+P0020,Provider 020,Pediatrics,Clinic B,0.75,187000,Part-Time
+P0021,Provider 021,Pediatrics,Clinic B,1.0,214000,Full-Time
+P0022,Provider 022,Primary Care,Clinic D,1.0,223000,Full-Time
+P0023,Provider 023,Primary Care,Clinic C,1.0,192000,Full-Time
+P0024,Provider 024,Orthopedics,ClinicA,0.75,361000,Part-Time
+P0025,Provider 025,Dermatology,Clinic B,0.75,256000,Part-Time
+P0026,Provider 026,OBGYN,ClinicA,0.75,313000,Part-Time
+P0027,Provider 027,Primary Care,Clinic C,1.0,230000,Full-Time
+P0028,Provider 028,Orthopedics,ClinicA,1.0,325000,Full-Time
+P0029,Provider 029,Orthopedics,ClinicA,0.5,408000,Part-Time
+P0030,Provider 030,General Surgery,ClinicA,0.75,375000,Part-Time
+P0031,Provider 031,Dermatology,ClinicA,1.0,295000,Full-Time
+P0032,Provider 032,Cardiology,ClinicA,1.0,356000,Full-Time
+P0033,Provider 033,General Surgery,ClinicA,0.5,318000,Part-Time
+P0034,Provider 034,Orthopedics,Clinic B,1.0,405000,Full-Time
+P0035,Provider 035,Pediatrics,ClinicA,1.0,227000,Full-Time
+P0036,Provider 036,Cardiology,Clinic B,1.0,313000,Full-Time
+P0037,Provider 037,Primary Care,ClinicA,1.0,217000,Full-Time
+P0038,Provider 038,General Surgery,ClinicA,1.0,387000,Full-Time
+P0039,Provider 039,Pediatrics,ClinicA,1.0,226000,Full-Time
+P0040,Provider 040,Pediatrics,Clinic B,1.0,218000,Full-Time
+P0041,Provider 041,Primary Care,Clinic C,1.0,195000,Full-Time
+P0042,Provider 042,OBGYN,Clinic B,0.5,294000,Part-Time
+P0043,Provider 043,Cardiology,ClinicA,0.75,292000,Part-Time
+P0044,Provider 044,Cardiology,Clinic B,0.75,391000,Part-Time
+P0045,Provider 045,Dermatology,Clinic B,1.0,309000,Full-Time
+P0046,Provider 046,Orthopedics,ClinicA,1.0,372000,Full-Time
+P0047,Provider 047,Pediatrics,Clinic B,0.5,209000,Part-Time
+P0048,Provider 048,General Surgery,ClinicA,1.0,386000,Full-Time
+P0049,Provider 049,Pediatrics,ClinicA,0.75,200000,Part-Time
+P0050,Provider 050,Pediatrics,Clinic B,1.0,181000,Full-Time
+P0051,Provider 051,Orthopedics,Clinic B,1.0,321000,Full-Time
+P0052,Provider 052,Orthopedics,Clinic B,0.75,401000,Part-Time
+P0053,Provider 053,Primary Care,Clinic B,1.0,234000,Full-Time
+P0054,Provider 054,Dermatology,Clinic B,0.75,342000,Part-Time
+P0055,Provider 055,Dermatology,ClinicA,0.5,305000,Part-Time
+P0056,Provider 056,Pediatrics,ClinicA,1.0,228000,Full-Time
+P0057,Provider 057,Dermatology,ClinicA,1.0,279000,Full-Time
+P0058,Provider 058,General Surgery,Clinic B,0.75,440000,Part-Time
+P0059,Provider 059,Cardiology,ClinicA,0.5,332000,Part-Time
+P0060,Provider 060,Dermatology,Clinic B,1.0,325000,Full-Time
+P0061,Provider 061,OBGYN,Clinic C,1.0,297000,Full-Time
+P0062,Provider 062,Pediatrics,ClinicA,1.0,220000,Full-Time
+P0063,Provider 063,Orthopedics,ClinicA,0.5,412000,Part-Time
+P0064,Provider 064,Orthopedics,ClinicA,1.0,336000,Full-Time
+P0065,Provider 065,Primary Care,ClinicA,1.0,199000,Full-Time
+P0066,Provider 066,OBGYN,ClinicA,1.0,336000,Full-Time
+P0067,Provider 067,Primary Care,ClinicA,1.0,237000,Full-Time
+P0068,Provider 068,Orthopedics,Clinic B,1.0,322000,Full-Time
+P0069,Provider 069,Dermatology,ClinicA,0.75,263000,Part-Time
+P0070,Provider 070,Primary Care,Clinic C,0.75,220000,Part-Time
+P0071,Provider 071,Dermatology,Clinic B,1.0,270000,Full-Time
+P0072,Provider 072,Dermatology,Clinic B,1.0,324000,Full-Time
+P0073,Provider 073,OBGYN,ClinicA,0.75,342000,Part-Time
+P0074,Provider 074,Primary Care,Clinic B,1.0,219000,Full-Time
+P0075,Provider 075,Pediatrics,Clinic B,1.0,197000,Full-Time
+P0076,Provider 076,Dermatology,Clinic B,0.5,306000,Part-Time
+P0077,Provider 077,Cardiology,Clinic B,0.75,297000,Part-Time
+P0078,Provider 078,OBGYN,Clinic B,1.0,306000,Full-Time
+P0079,Provider 079,Cardiology,Clinic B,1.0,336000,Full-Time
+P0080,Provider 080,General Surgery,Clinic B,0.5,316000,Part-Time
