@@ -54,6 +54,8 @@ Provides a high-level view of:
 - Productivity by specialty
 - Top providers by productivity
 
+![Executive Decision Support](images/dashboard1.png)
+
 ### 2. Provider Productivity
 Provides provider-level analysis of:
 
@@ -63,6 +65,8 @@ Provides provider-level analysis of:
 - Revenue per wRVU
 - Quality scores
 - Provider productivity status
+
+![Provider Productivity](images/dashboard2.png)
 
 ### 3. Compensation & Incentives
 Analyzes:
@@ -74,6 +78,8 @@ Analyzes:
 - Incentive by specialty
 - Monthly incentive trends
 - Provider-level incentive reporting
+
+![Compensation & Incentives](images/dashboard3.png)
 
 ### 4. Data Quality & Reconciliation
 Includes validation checks for:
