@@ -93,20 +93,6 @@ The Power BI model uses separate dimension and fact tables for providers, patien
 
 DAX measures were developed for productivity, quality, incentive calculations, and reconciliation.
 
-## Project Structure
-
-```text
-provider-productivity-compensation-analytics/
-│
-├── data/
-│   └── raw/
-├── python/
-│   └── generate_data.py
-├── powerbi/
-│   └── provider_productivity_compensation.pbix
-├── README.md
-└── .gitignore
-
 ## Key Takeaways
 
 This project provided hands-on experience with a healthcare provider analytics workflow, particularly:
