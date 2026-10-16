@@ -79,7 +79,7 @@ Analyzes:
 - Monthly incentive trends
 - Provider-level incentive reporting
 
-![Compensation & Incentives](images/dashboard3.png)
+![Compensation & Incentives](images/dashboard4.png)
 
 ### 4. Data Quality & Reconciliation
 Includes validation checks for:
